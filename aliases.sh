@@ -1,7 +1,7 @@
-if [ -f $HOME/.aconfigs/myenv.env ]; then
-    source $HOME/.aconfigs/myenv.env
+if [ -f $HOME/devin/vars.env ]; then
+    source $HOME/devin/vars.env
 else
-    echo "File 'myenv.env' not found at $HOME/.aconfigs/myenv.env. Aliases will fail."
+    echo "File 'vars.env' not found at $HOME/devin/vars.env. Aliases will fail."
 fi
 
 
