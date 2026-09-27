@@ -8,7 +8,7 @@ fi
 ################################################################################
 # Directory Shortcuts
 
-alias projects="cd ${HOME}/projects/repos/"
+alias projects="cd ${HOME}/projects/"
 alias sandbox="cd ${HOME}/sandbox"
 alias configs="cd ${HOME}/.aconfigs/"
 
