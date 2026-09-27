@@ -9,7 +9,7 @@ fi
 # Directory Shortcuts
 
 alias projects="cd ${HOME}/projects/"
-alias sandbox="cd ${HOME}/sandbox"
+alias sketches="cd ${HOME}/sketches"
 alias configs="cd ${HOME}/.aconfigs/"
 
 alias notes="nvim '${PATH_NOTES}'"
