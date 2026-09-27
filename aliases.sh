@@ -10,7 +10,7 @@ fi
 
 alias projects="cd ${HOME}/projects/"
 alias sketches="cd ${HOME}/sketches"
-alias configs="cd ${HOME}/.aconfigs/"
+alias devin="cd ${HOME}/devin/"
 
 alias notes="nvim '${PATH_NOTES}'"
 
