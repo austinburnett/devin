@@ -12,7 +12,7 @@ alias projects="cd ${HOME}/projects/"
 alias sketches="cd ${HOME}/sketches"
 alias devin="cd ${HOME}/devin/"
 
-alias notes="nvim '${PATH_NOTES}'"
+alias notes="nvim '${HOME}/notes'"
 
 
 ################################################################################
