@@ -1,6 +1,7 @@
 [core]
 	editor = nvim
 
+
 ###############################################################################
 # Diffing
 
@@ -9,6 +10,10 @@
 	algorithm = histogram
 [difftool]
 	prompt = false
+
+# Remove if not using GitBash on Windows.
+[difftool "tgit"]
+	cmd = "'C:\\Program Files\\TortoiseGit\\bin\\TortoiseGitProc' /command:repostatus /path $PWD"
 
 
 ###############################################################################
